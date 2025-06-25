@@ -1,0 +1,12 @@
+.Formsection{
+    background-color: black;
+    color: white;
+    width: 20%;
+    height: 100%;
+    margin-top: 20%;
+    margin-left: 38%;
+}
+.submitbtn{
+    background-color: rgb(64, 136, 154);
+    color:white;
+}
