@@ -1,0 +1,22 @@
+.empform{
+    background-color: azure;
+    height:25rem;
+    margin-left:30%;
+    margin-right:30%;
+    margin-top: 7%;
+    border:2px solid black;
+}
+.empform h2{
+    margin:2rem;
+}
+.empform label,input{
+    margin:0.5rem;
+}
+.empform button{
+    border:none;
+    background-color: blueviolet;
+    color:white;
+    font-size: 1.2rem;
+    margin:1rem;
+    border-radius: 10%;
+}
